@@ -1,0 +1,8 @@
+rateslib==2.0.1
+databento
+matplotlib
+scipy
+numba
+numpy
+pandas
+pathlib
