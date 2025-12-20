@@ -9,7 +9,9 @@ Other source repos include: https://github.com/attack68/book_irds3
 ### Structure
 
 **Curve 3_19**: Contains a notebook for a closing curve and portfolio as of March 19th, 2025
+
 **Curve 3_20**: Contains a notebook evaluating PnL over the subsequent day 
+
 **Data**: Contains example notebooks for order book and settlement price retrieval
 
 ### Installation
