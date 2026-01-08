@@ -1,10 +1,12 @@
 # SOFR-IRS-Curve
 
-Demonstrating a short end SOFR interest rate swaps curve and risk metrics in RatesLib: https://rateslib.com/py/en/2.0.x/index.html
+Demonstrating a short end SOFR interest rate swaps curve and risk metrics in [RatesLib](https://rateslib.com/py/en/2.0.x/index.html)
+
+Please see this [post](https://rplunk.github.io/2026/01/06/pricing-curve-post.html) for further elucidation
 
 Seeks to evaluate a portfolio of swaps, hedge the portfolio and evaluate performance over the course of a single day. Futures order book data via the databento API is utilized. 
 
-Other source repos include: https://github.com/attack68/book_irds3
+Other source repos include: [Code Repository for Pricing and Trading IRDs](https://github.com/attack68/book_irds3)
 
 ### Structure
 
